@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="Recipe"
+        android:textColor="#216928"
+        android:padding="10dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#D9D9D9"/>
+    <ImageView
+        android:id="@+id/recipeMainImg"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/salad"
+        android:layout_margin="30dp"/>
+    <TextView
+        android:id="@+id/recipeMainText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="계란샐러드"
+        android:textStyle="bold"
+        android:textSize="35dp"
+        android:textColor="#216928"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="40dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#FDFBDB">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:background="#D9D9D9"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="조리 방법"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="40dp"/>
+    <TextView
+        android:id="@+id/recipeWay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1. 계란을 20분동안 끓는 물에 삶는다.\n2.드레싱은 올리브유와 발사믹을 3:1의
+비율로 섞는다\n3.머스타드, 요거트 등 취향에 맞게 넣어준다.\n4.준비한 채소와 함께 섞어 먹는다."
+        android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+</LinearLayout>
