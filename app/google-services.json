@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159513905229",
+    "project_id": "myfoodhealth-7e24e",
+    "storage_bucket": "myfoodhealth-7e24e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159513905229:android:261fd4c6dda5eda8017404",
+        "android_client_info": {
+          "package_name": "org.techtown.finalproject_healthfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159513905229-8air71fjhasd0pajq31g5ipc342nbklo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG2OHTqs8OfEZ2duvIKLdd87QMW7fWQSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159513905229-8air71fjhasd0pajq31g5ipc342nbklo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
