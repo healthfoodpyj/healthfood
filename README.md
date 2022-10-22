@@ -14,7 +14,7 @@
 4. 식단 일기 기능으로 사용자가 꾸준히 건강한 식습관을 유지할 수 있도록 도움을 줍니다.
 
 
-### []
+### [서비스 실사 화면]
 <img width="548" alt="스크린샷 2022-10-22 오후 5 57 10" src="https://user-images.githubusercontent.com/62551459/197330748-db3a6e57-5104-4bd6-88fa-e641e83467c1.png">
 <img width="546" alt="스크린샷 2022-10-22 오후 5 57 16" src="https://user-images.githubusercontent.com/62551459/197330747-0166f7d5-3d75-4c02-afd6-9121c40bd1ea.png">
 <img width="543" alt="스크린샷 2022-10-22 오후 5 57 22" src="https://user-images.githubusercontent.com/62551459/197330745-8f6b11d3-2184-4d98-89e0-fd1b8bbc6fe0.png">
