@@ -12,3 +12,12 @@
 3. 유통기한이 얼마 남지 않은 식자재 & 오래 사용되지 않은 식자재는 알림으로 알려줍니다. 
 (냉장고 문을 열어 속까지 뭐가 있는지 번거로이 확인할 필요 없이 냉장고 정리를 서비스가 관리해줍니다.)
 4. 식단 일기 기능으로 사용자가 꾸준히 건강한 식습관을 유지할 수 있도록 도움을 줍니다.
+
+<img width="533" alt="스크린샷 2022-10-22 오후 5 57 30" src="https://user-images.githubusercontent.com/62551459/197330739-21c262e7-361b-4069-a7d6-c714e637c67d.png">
+<img width="534" alt="스크린샷 2022-10-22 오후 5 57 26" src="https://user-images.githubusercontent.com/62551459/197330743-88a4a513-95f2-487c-9c03-e07d6723b3ca.png">
+<img width="543" alt="스크린샷 2022-10-22 오후 5 57 22" src="https://user-images.githubusercontent.com/62551459/197330745-8f6b11d3-2184-4d98-89e0-fd1b8bbc6fe0.png">
+<img width="546" alt="스크린샷 2022-10-22 오후 5 57 16" src="https://user-images.githubusercontent.com/62551459/197330747-0166f7d5-3d75-4c02-afd6-9121c40bd1ea.png">
+<img width="548" alt="스크린샷 2022-10-22 오후 5 57 10" src="https://user-images.githubusercontent.com/62551459/197330748-db3a6e57-5104-4bd6-88fa-e641e83467c1.png">
+<img width="670" alt="스크린샷 2022-10-22 오후 5 57 00" src="https://user-images.githubusercontent.com/62551459/197330750-5534f1c9-4059-4106-9161-f4084e7744fe.png">
+<img width="693" alt="스크린샷 2022-10-22 오후 5 56 54" src="https://user-images.githubusercontent.com/62551459/197330752-db4dce72-9d6a-4894-9ad5-247a5db98039.png">
+
